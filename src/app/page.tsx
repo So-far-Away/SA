@@ -33,7 +33,7 @@ export default function Home() {
 
         <h2 className="text-2xl font-semibold mb-3">🔧 Developer Version</h2>
         <p className="text-gray-600 mb-4">
-          For those who want to contribute or modify the game's source code:
+          For those who want to contribute or modify the game&apos;s source code:
         </p>
         <div className="flex flex-col gap-3">
           <a
