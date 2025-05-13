@@ -9,21 +9,21 @@ export default function Home() {
 
         <div className="flex flex-col gap-4 mb-8">
           <a
-            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/SmokeandAlgorithms-1.2-pc.zip"
+            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/pc/SmokeandAlgorithms-1.2-pc.zip"
             className="bg-blue-600 text-white py-2 px-4 rounded-xl hover:bg-blue-700"
             download
           >
             🔽 Download for Windows
           </a>
           <a
-            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/SmokeandAlgorithms-1.2-mac.zip"
+            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/mac/SmokeandAlgorithms-1.2-mac.zip"
             className="bg-gray-800 text-white py-2 px-4 rounded-xl hover:bg-gray-900"
             download
           >
             🍎 Download for macOS
           </a>
           <a
-            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/SmokeandAlgorithms-1.2-pc.zip"
+            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/pc/SmokeandAlgorithms-1.2-pc.zip"
             className="bg-green-600 text-white py-2 px-4 rounded-xl hover:bg-green-700"
             download
           >
@@ -37,7 +37,7 @@ export default function Home() {
         </p>
         <div className="flex flex-col gap-3">
           <a
-            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/SAFinal2.zip"
+            href="https://nextcloud.uni-weimar.de/apps/files/files/28121140?dir=/SocialEngineerig/dev/SAFinal2.zip"
             className="bg-blue-500 text-white py-2 px-4 rounded-xl hover:bg-blue-600"
             download
           >
