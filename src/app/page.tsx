@@ -14,6 +14,7 @@ export default function Home() {
             download
           >
             🔽 Download for Windows
+          </a>
           <a
             href="https://example.com/mac-v1.0.zip"
             className="bg-gray-800 text-white py-2 px-4 rounded-xl hover:bg-gray-900"
